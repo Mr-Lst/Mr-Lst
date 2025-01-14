@@ -19,6 +19,6 @@
 
 - instagram : lst_man
 
-- youtube : hacker_lst
+- youtube : [hacker_lst](https://www.youtube.com/@hacker_lst)
 
 - discord : mr_lst
