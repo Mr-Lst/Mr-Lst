@@ -22,3 +22,5 @@
 - youtube : [hacker_lst](https://www.youtube.com/@hacker_lst)
 
 - discord : [Ghostbyte](https://discord.gg/UXxuraDqxe)
+  
+<h3 align="center">I am here to make safe things unsafe</h3>
