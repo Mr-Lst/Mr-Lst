@@ -3,17 +3,17 @@
 
 <h1 align="center">Skills</h1>
 
-- C# : 30% **c#**
+- C# : **30%**
 
-- Python : 90% **Python**
+- Python : **90%**
 
-- C++ : 80% **c++**
+- C++ : **80%**
 
-- JavaScript : 20% **JavaScript**
+- JavaScript : **20%**
 
-- c : 40% **c**
+- c : **40%**
 
-- php : 10% **php**
+- php : **10%**
 
 <h1 align="center">Accounts</h1>
 
