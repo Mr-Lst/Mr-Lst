@@ -17,6 +17,6 @@
 <p align="left">
 <a href="https://instagram.com/lst_man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lst_man" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@hacker_lst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hacker_lst" height="30" width="40" /></a>
-<a href="https://discord.gg/mr_lst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr_lst" height="30" width="40" /></a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr_lst" height="30" width="40" /></a>
 </p>
 
