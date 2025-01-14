@@ -17,8 +17,8 @@
 
 <h1 align="center">Accounts</h1>
 
-- instagram : lst_man
+- instagram : [lst_man](https://www.instagram.com/lst_man)
 
 - youtube : [hacker_lst](https://www.youtube.com/@hacker_lst)
 
-- discord : mr_lst
+- discord : [Ghostbyte](https://discord.gg/UXxuraDqxe)
