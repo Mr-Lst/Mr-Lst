@@ -15,6 +15,8 @@
 
 - php : **10%**
 
+- Lua : **5%**
+
 <h1 align="center">Accounts</h1>
 
 - instagram : [lst_man](https://www.instagram.com/lst_man)
