@@ -1,0 +1,54 @@
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+  <desc>Generated with https://github.com/Platane/snk</desc>
+  <style>
+    :root {
+      --cb: #1b1f230a;
+      --cs: purple;
+      --ce: #161b22;
+      --c0: #161b22;
+      --c1: #01311f;
+      --c2: #034525;
+      --c3: #0f6d31;
+      --c4: #00c647;
+    }
+    .c {
+      shape-rendering: geometricPrecision;
+      fill: var(--ce);
+      stroke-width: 1px;
+      stroke: var(--cb);
+      animation: none 33700ms linear infinite;
+      width: 12px;
+      height: 12px;
+    }
+    .text {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      fill: var(--c4);
+      animation: textAnimation 33700ms linear infinite;
+    }
+    @keyframes textAnimation {
+      0% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.5;
+      }
+      100% {
+        opacity: 0;
+      }
+    }
+    /* باقي أنماط الرسوم المتحركة للثعبان تبقى كما هي */
+  </style>
+  <!-- رسم الثعبان -->
+  <rect class="c" x="2" y="2" rx="2" ry="2" />
+  <rect class="c" x="2" y="18" rx="2" ry="2" />
+  <rect class="c" x="2" y="34" rx="2" ry="2" />
+  <rect class="c c0" x="2" y="50" rx="2" ry="2" />
+  <rect class="c c1" x="2" y="66" rx="2" ry="2" />
+  <rect class="c" x="2" y="82" rx="2" ry="2" />
+  <rect class="c c2" x="2" y="98" rx="2" ry="2" />
+  <!-- إضافة النص "Mr. Lst" -->
+  <text class="text" x="700" y="100">Mr. Lst</text>
+  <!-- باقي عناصر الثعبان -->
+</svg>
