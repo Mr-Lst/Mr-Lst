@@ -7,15 +7,15 @@
 
 - Python : **90%**
 
-- C++ : **80%**
+- C++ : **30%**
 
-- JavaScript : **20%**
+- JavaScript : **50%**
 
 - c : **40%**
 
 - php : **10%**
 
-- Lua : **5%**
+- Lua : **40%**
 
 <h1 align="center">Accounts</h1>
 
