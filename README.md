@@ -17,12 +17,12 @@ My experience spans across developing Roblox games, participating in internation
 
 | Skill                  | Proficiency                             | Description                                      |
 |------------------------|---------------------------------------|-------------------------------------------------|
-| Python                 | [64%](https://progress-bar.dev/64?title=Python)        | Extensive scripting for automation, pentesting, and tool development. |
-| C / C++                | [56%](https://progress-bar.dev/56?title=C%2B%2B)       | Systems programming, exploit development, and game hacking.            |
-| Lua                    | [48%](https://progress-bar.dev/48?title=Lua)           | Roblox game development and scripting complex mechanics.               |
-| Rust                   | [40%](https://progress-bar.dev/40?title=Rust)          | Writing secure, high-performance tools and utilities.                  |
-| Cybersecurity          | [70%](https://progress-bar.dev/70?title=Cybersecurity) | Penetration testing, vulnerability research, and ethical hacking.      |
-| Reverse Engineering    | [60%](https://progress-bar.dev/60?title=Reverse+Eng)   | Binary analysis, malware analysis, and patching games and software.    |
+| Python                 | 64%    | Extensive scripting for automation, pentesting, and tool development. |
+| C / C++                | 56%     | Systems programming, exploit development, and game hacking.            |
+| Lua                    | 48%      | Roblox game development and scripting complex mechanics.               |
+| Rust                   | 20%         | Writing secure, high-performance tools and utilities.                  |
+| Cybersecurity          | 70% | Penetration testing, vulnerability research, and ethical hacking.      |
+| Reverse Engineering    | 60%  | Binary analysis, malware analysis, and patching games and software.    |
 
 ---
 
