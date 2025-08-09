@@ -91,10 +91,17 @@ My experience spans across developing Roblox games, participating in internation
 
 ---
 
-## 📫 Contact
+###  Accounts
 
-- Discord: **mx.lst**  
-- Telegram: [mr0lst](https://t.me/Mr0Lst)
+| Platform  | Updated Handle         |
+|-----------|------------------------|
+| Instagram | `mr0lst`                  |
+| YouTube   | `mx_lst`                  |
+| Discord   | `mx.lst`                  |
+
+#### Direct links:
+[![Instagram](رابط_صورة_إنستغرام)](https://www.instagram.com/...)
+[![YouTube](رابط_صورة_يوتيوب)](https://www.youtube.com/...)
 
 ---
 
