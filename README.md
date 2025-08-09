@@ -26,22 +26,22 @@ My experience spans across developing Roblox games, participating in internation
 
 ---
 
+### Roblox Game Developer  
+*Independent Projects*  
+*2018 – Present*  
+- Designed, developed, and published multiple engaging Roblox games using advanced Lua scripting.  
+- Created automation and cheat prevention scripts to ensure fair gameplay.  
+- Integrated community feedback to continuously improve gameplay mechanics and user experience.
+
 ## 💼 Professional Experience
 
 ### Grey Hat Hacker & Security Researcher  
 *Freelance & Personal Projects*  
-*2018 – Present*  
+*2020-2021 – Present*  
 - Conduct penetration testing and vulnerability assessments on various platforms including games and enterprise software.  
 - Develop custom tools in Python and C for exploit development and automation.  
 - Perform reverse engineering on software binaries to identify security flaws and create patches.  
 - Active participant in international CTF competitions with several top-tier rankings.  
-
-### Roblox Game Developer  
-*Independent Projects*  
-*2020 – Present*  
-- Designed, developed, and published multiple engaging Roblox games using advanced Lua scripting.  
-- Created automation and cheat prevention scripts to ensure fair gameplay.  
-- Integrated community feedback to continuously improve gameplay mechanics and user experience.
 
 ---
 
