@@ -71,9 +71,9 @@ My experience spans across developing Roblox games, participating in internation
 
 ## ⚙️ Tools & Technologies
 
-- **Languages:** Python, C, C++, Lua, Rust  
+- **Languages:** Python, C, C#, C++, Lua, Rust  
 - **Security Tools:** Metasploit, Ghidra, IDA Pro, Radare2, Burp Suite  
-- **Platforms:** Linux, Windows, Roblox Studio  
+- **Platforms:** Linux, Windows
 - **Other:** Git, Docker, Vim, VSCode
 
 ---
