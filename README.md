@@ -82,6 +82,9 @@ My experience spans across developing Roblox games, participating in internation
 
 - Certified Ethical Hacker (CEH) – 2024  
 - Additional courses in Advanced Reverse Engineering and Exploit Development
+- Offensive Security Certified Professional (OSCP+)
+- Certified Information Systems Security Professional (CISSP)
+- Certified Information Security Manager (CISM)
 
 ---
 
