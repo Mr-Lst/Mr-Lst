@@ -93,11 +93,12 @@ My experience spans across developing Roblox games, participating in internation
 
 ###  Accounts
 
-| Platform  | Updated Handle         |
+| Platform  | account         |
 |-----------|------------------------|
 | Instagram | `mr0lst`                  |
 | YouTube   | `mx_lst`                  |
 | Discord   | `mx.lst`                  |
+| Telegram   | `mx0lst`                  |
 
 ---
 
