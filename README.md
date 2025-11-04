@@ -108,18 +108,3 @@ My experience spans across developing Roblox games, participating in internation
 ## 📈 GitHub Stats
 
 ![Mr-Lst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Lst&show_icons=true&count_private=true&theme=radical)
-
----
-
-###  Accounts
-
-| Platform  | account         |
-|-----------|------------------------|
-| Instagram | `mr0lst`                  |
-| YouTube   | `mx_lst`                  |
-| Discord   | `mx.lst`                  |
-| Telegram   | `mx0lst`                  |
-
----
-
-*Committed to pushing the boundaries in cybersecurity and software development.*
