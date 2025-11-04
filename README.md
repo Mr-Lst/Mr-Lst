@@ -41,7 +41,7 @@ My experience spans across developing Roblox games, participating in internation
 - Active participant in international CTF competitions with several top-tier rankings.  
 
 ---
-# Languages:
+# ⌨️ Languages
 
 - **Python**: Scripting, automation, data analysis, AI projects, and tool development.
 
