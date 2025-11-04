@@ -43,23 +43,23 @@ My experience spans across developing Roblox games, participating in internation
 ---
 # ⌨️ Languages
 
-- **Python**: Scripting, automation, data analysis, AI projects, and tool development.
+- **Python** : Scripting, automation, data analysis, AI projects, and tool development.
 
-- **C / C++ / C#**: Systems programming, high-performance applications, game development, and exploit creation.
+- **C / C++ / C#** : Systems programming, high-performance applications, game development, and exploit creation.
 
-- **Lua**: Roblox game scripting, embedded scripting in engines, and automation scripts.
+- **Lua** : Roblox game scripting, embedded scripting in engines, and automation scripts.
 
-- **Rust**: Safe and efficient systems programming, backend services, and performance-critical software.
+- **Rust** : Safe and efficient systems programming, backend services, and performance-critical software.
 
-- **Go**: Backend development, concurrent systems, and scalable services.
+- **Go** : Backend development, concurrent systems, and scalable services.
 
-- **JavaScript / TypeScript**: Web development, APIs, and maintainable frontend projects.
+- **JavaScript / TypeScript** : Web development, APIs, and maintainable frontend projects.
 
-- **F# / Q#**: Functional programming, algorithm exploration, and quantum computing research.
+- **F# / Q#** : Functional programming, algorithm exploration, and quantum computing research.
 
-- **SQL**: Database design, complex queries, and data optimization. 
+- **SQL** : Database design, complex queries, and data optimization. 
 
-- **and more...**: ASM, Html, CSS, Java, PHP, Ruby
+- **and more...** : ASM, Html, CSS, Java, PHP, Ruby
 
 ---
 
