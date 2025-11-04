@@ -17,10 +17,7 @@ My experience spans across developing Roblox games, participating in internation
 
 | Skill                  | Proficiency                             | Description                                      |
 |------------------------|---------------------------------------|-------------------------------------------------|
-| Python                 | 64%    | Extensive scripting for automation, pentesting, and tool development. |
-| C / C++                | 56%     | Systems programming, exploit development, and game hacking.            |
-| Lua                    | 48%      | Roblox game development and scripting complex mechanics.               |
-| Rust                   | 20%         | Writing secure, high-performance tools and utilities.                  |
+| Programming                 | 68%    | Extensive scripting for automation, pentesting, and tool development. |
 | Cybersecurity          | 70% | Penetration testing, vulnerability research, and ethical hacking.      |
 | Reverse Engineering    | 60%  | Binary analysis, malware analysis, and patching games and software.    |
 
@@ -42,6 +39,27 @@ My experience spans across developing Roblox games, participating in internation
 - Develop custom tools in Python and C for exploit development and automation.  
 - Perform reverse engineering on software binaries to identify security flaws and create patches.  
 - Active participant in international CTF competitions with several top-tier rankings.  
+
+---
+# Languages:
+
+- **Python**: Scripting, automation, data analysis, AI projects, and tool development.
+
+- **C / C++ / C#**: Systems programming, high-performance applications, game development, and exploit creation.
+
+- **Lua**: Roblox game scripting, embedded scripting in engines, and automation scripts.
+
+- **Rust**: Safe and efficient systems programming, backend services, and performance-critical software.
+
+- **Go**: Backend development, concurrent systems, and scalable services.
+
+- **JavaScript / TypeScript**: Web development, APIs, and maintainable frontend projects.
+
+- **F# / Q#**: Functional programming, algorithm exploration, and quantum computing research.
+
+- **SQL**: Database design, complex queries, and data optimization. 
+
+- **and more...**: ASM, Html, CSS, Java, PHP, Ruby
 
 ---
 
