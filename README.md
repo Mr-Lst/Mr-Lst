@@ -97,9 +97,10 @@ My experience spans across developing Roblox games, participating in internation
 
 ## 🎓 Education & Certifications
 
+- Offensive Security Experienced Penetration Tester (OSEP) -2025
 - Certified Ethical Hacker (CEH) – 2024  
 - Additional courses in Advanced Reverse Engineering and Exploit Development
-- Offensive Security Certified Professional (OSCP+)
+- Offensive Security Certified Professional (OSCP+) -2025
 - Certified Information Systems Security Professional (CISSP)
 - Certified Information Security Manager (CISM)
 
