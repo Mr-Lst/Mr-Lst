@@ -58,38 +58,6 @@ My experience spans across developing Roblox games, participating in internation
 
 ---
 
-## 🚀 Projects
-
-- **Roblox Games Collection**  
-  Developed several popular Roblox games focusing on creativity and player engagement.  
-
-- **Pentesting Tools**  
-  Created Python and C-based utilities for network scanning, vulnerability detection, and exploitation.  
-
-- **CTF Write-ups & Research**  
-  Documented solutions for complex Capture The Flag challenges, shared with the security community.  
-
-- **Reverse Engineering Tools**  
-  Built custom debuggers and disassemblers to assist in analyzing binary code for vulnerabilities.
-
----
-
-## 🏆 Capture The Flag (CTF) Participation
-
-- Competed in major CTF events including DEF CON, Hack The Box, and picoCTF.  
-- Specialized in binary exploitation, reverse engineering, and web security challenges.  
-- Consistently ranked in top 10% in multiple competitions.
-
----
-
-## ⚙️ Tools & Technologies
-
-- **Security Tools:** Metasploit, Ghidra, IDA Pro, Radare2, Burp Suite  
-- **Platforms:** Linux, Windows
-- **Other:** Git, Docker, Vim, VSCode
-
----
-
 ## 🎓 Education & Certifications
 
 - Offensive Security Experienced Penetration Tester (OSEP) -2025
