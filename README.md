@@ -36,8 +36,4 @@ My experience spans across developing Roblox games, participating in internation
 - Certified Information Systems Security Professional (CISSP)
 - Certified Information Security Manager (CISM)
 
----
 
-## GitHub Stats
-
-![Mr-Lst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Lst&show_icons=true&count_private=true&theme=radical)
