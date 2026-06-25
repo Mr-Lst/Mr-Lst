@@ -10,11 +10,11 @@ My experience spans across developing Roblox games, participating in internation
 
 ## 🛠️ Skills & Proficiencies
 
-| Skill                  | Proficiency                             | Description                                      |
-|------------------------|---------------------------------------|-------------------------------------------------|
-| Programming                 | 68%    | Extensive scripting for automation, pentesting, and tool development. |
-| Cybersecurity          | 70% | Penetration testing, vulnerability research, and ethical hacking.      |
-| Reverse Engineering    | 60%  | Binary analysis, malware analysis, and patching games and software.    |
+| Skill                 |
+|------------------------|
+| Programming                 |
+| Cybersecurity          |
+| Reverse Engineering       |
 
 ---
 
