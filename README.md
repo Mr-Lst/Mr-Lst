@@ -1,8 +1,3 @@
-# Mr-Lst
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Grey+Hat+Hacker+%26+Security+Researcher;Reverse+Engineer+%7C+CTF+Player;Roblox+Game+Developer+%26+Lua+Scripter)](https://github.com/Mr-Lst)
-
----
 
 ## 👨‍💻 About Me
 
