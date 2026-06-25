@@ -8,16 +8,6 @@ My experience spans across developing Roblox games, participating in internation
 
 ---
 
-## 🛠️ Skills & Proficiencies
-
-| Skill                 |
-|------------------------|
-| Programming                 |
-| Cybersecurity          |
-| Reverse Engineering       |
-
----
-
 ### Roblox Game Developer  
 *Independent Projects*  
 *2018 – Present*  
