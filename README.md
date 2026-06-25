@@ -10,7 +10,7 @@ My experience spans across developing Roblox games, participating in internation
 
 ### Roblox Game Developer  
 *Independent Projects*  
-*2018 – Present*  
+*2018 – 2022*  
 - Designed, developed, and published multiple engaging Roblox games using advanced Lua scripting.  
 - Created automation and cheat prevention scripts to ensure fair gameplay.  
 - Integrated community feedback to continuously improve gameplay mechanics and user experience.
