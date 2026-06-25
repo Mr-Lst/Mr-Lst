@@ -15,8 +15,6 @@ My experience spans across developing Roblox games, participating in internation
 - Created automation and cheat prevention scripts to ensure fair gameplay.  
 - Integrated community feedback to continuously improve gameplay mechanics and user experience.
 
-##  Professional Experience
-
 ### Grey Hat Hacker & Security Researcher  
 *Freelance & Personal Projects*  
 *2020 – 2025*  
