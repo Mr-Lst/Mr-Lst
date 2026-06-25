@@ -1,5 +1,5 @@
 
-## 👨‍💻 About Me
+##  About Me
 
 I am **Mr-Lst**, a dedicated **Grey Hat Hacker** and **Security Researcher** with a deep passion for cybersecurity, reverse engineering, and game development.  
 With a strong foundation in **Python**, **C/C++**, **Lua**, and **Rust**, I combine programming expertise with ethical hacking skills to explore vulnerabilities, develop exploits, and contribute to the security community.
@@ -15,7 +15,7 @@ My experience spans across developing Roblox games, participating in internation
 - Created automation and cheat prevention scripts to ensure fair gameplay.  
 - Integrated community feedback to continuously improve gameplay mechanics and user experience.
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Grey Hat Hacker & Security Researcher  
 *Freelance & Personal Projects*  
@@ -26,7 +26,7 @@ My experience spans across developing Roblox games, participating in internation
 - Active participant in international CTF competitions with several top-tier rankings.  
 
 ---
-# ⌨️ Languages
+# Languages
 
 - **Python** : Scripting, automation, data analysis, AI projects, and tool development.
 
@@ -48,7 +48,7 @@ My experience spans across developing Roblox games, participating in internation
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - Offensive Security Experienced Penetration Tester (OSEP) -2025
 - Certified Ethical Hacker (CEH) – 2024  
@@ -59,6 +59,6 @@ My experience spans across developing Roblox games, participating in internation
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Mr-Lst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Lst&show_icons=true&count_private=true&theme=radical)
