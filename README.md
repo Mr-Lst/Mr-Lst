@@ -29,7 +29,7 @@ My experience spans across developing Roblox games, participating in internation
 
 ### Grey Hat Hacker & Security Researcher  
 *Freelance & Personal Projects*  
-*2020-2021 – Present*  
+*2020 – 2025*  
 - Conduct penetration testing and vulnerability assessments on various platforms including games and enterprise software.  
 - Develop custom tools in Python and C for exploit development and automation.  
 - Perform reverse engineering on software binaries to identify security flaws and create patches.  
